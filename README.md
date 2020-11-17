@@ -4,7 +4,7 @@
 
 AMI: Deep Learning AMI (Ubuntu 18.04) Version 36.0 
 
-PyTorch 1.7, Python3.7 , CUDA 11.0
+PyTorch 1.7, Python3.7, CUDA 11.0
 
 
 ## Apex install
